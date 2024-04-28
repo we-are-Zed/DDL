@@ -48,7 +48,9 @@ Java2 practice5 4月27日（✅）
 
 # 五月
 
-ada lab7 5月5日
+ada lab7 5月5日（✅）
+
+Ada lab8 5月12日
 
 ada practice7，8
 
