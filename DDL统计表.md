@@ -74,7 +74,7 @@ ada lab9 5月26日（dp）
 
 ada lab10 6月2日（dp）
 
-ada 理论作业6 5月21日
+ada 理论作业6 5月21日（✅）
 
 ada lab11（网络流）
 
